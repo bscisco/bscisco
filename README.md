@@ -1,7 +1,7 @@
 <h2 align="center" style="color: purple">Bscisco ~ Guilherme</h2>
 
 ### Presentation
-<p><em>Hello, my name is </strong>Guilherme</strong>, and I am a software engineering student passionate about Linux. Currently, I find myself seeking progressive evolution as a <strong>fullstack developer</strong>.</em></p>
+<p>Hello, my name is </strong>Guilherme</strong>, and I am a software engineering student passionate about Linux. Currently, I find myself seeking progressive evolution as a <strong>fullstack developer</strong>.</p>
 
 ### Analysis
 <p></p>
